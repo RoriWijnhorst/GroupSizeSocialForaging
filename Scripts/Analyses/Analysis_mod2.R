@@ -15,5 +15,5 @@ md <- stan(
   cores = 4,
   control = list(adapt_delta = 0.95))
 
-md<-"Model_output/Mod2_results.RDS"
+saveRDS(md, "Model_output/Mod2_results.RDS")
 
