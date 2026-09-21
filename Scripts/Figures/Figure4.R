@@ -1,3 +1,6 @@
+# Run Scripts/Analyses/Analysis_mod1.R and Scripts/Analyses/Analysis_mod2.R 
+# to obtain the required model output results
+
 library(plot3D)
 
 md <- readRDS("Model_output/Mod2_results.RDS")

@@ -1,3 +1,6 @@
+# Run Scripts/Analyses/Analysis_mod1.R and Scripts/Analyses/Analysis_mod2.R 
+# to obtain model output results
+
 library(ggplot2)
 
 # ============================================================

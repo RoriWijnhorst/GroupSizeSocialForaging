@@ -1,3 +1,6 @@
+# Run Scripts/Analyses/Analysis_mod1.R 
+# to obtain model output results
+
 library(dplyr)
 library(tidyr)
 library(ggplot2)
