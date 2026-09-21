@@ -1,3 +1,6 @@
+# Run Scripts/Analyses/Analysis_mod1.R 
+# to obtain the required model output results
+
 md <- readRDS("Model_output/Mod1_results.RDS")
 
 post_mat <- as.data.frame(as.matrix(md))
